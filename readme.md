@@ -2,8 +2,8 @@
 
 ## Egoosetrian riding equipment for the discerning rabbit
 
-[ ] Add a rabbit customer
-[ ] Add a goose to a customer
+[x] Add a rabbit customer
+[x] Add a goose to a customer
 [ ] Create a saddle for a particular goose
 [ ] Armory that sells
 	[ ] Jousting carrots
