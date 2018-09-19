@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\RabbitsAndGeese.deps.json
+C:\Users\student\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\RabbitsAndGeese.runtimeconfig.json
+C:\Users\student\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\RabbitsAndGeese.runtimeconfig.dev.json
+C:\Users\student\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\RabbitsAndGeese.dll
+C:\Users\student\source\repos\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\RabbitsAndGeese.pdb
+C:\Users\student\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\RabbitsAndGeese.csprojAssemblyReference.cache
+C:\Users\student\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\RabbitsAndGeese.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\RabbitsAndGeese.RazorAssemblyInfo.cache
+C:\Users\student\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\RabbitsAndGeese.RazorAssemblyInfo.cs
+C:\Users\student\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\RabbitsAndGeese.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\RabbitsAndGeese.AssemblyInfo.cs
+C:\Users\student\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\RabbitsAndGeese.RazorTargetAssemblyInfo.cache
+C:\Users\student\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\RabbitsAndGeese.dll
+C:\Users\student\source\repos\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\RabbitsAndGeese.pdb
